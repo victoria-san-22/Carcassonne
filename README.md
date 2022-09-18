@@ -8,6 +8,7 @@ The game is simulated using two program files, one which represents the overall 
 creates the tiles necessary for creating the map.
 
 carcassonne_map.py
+
 PURPOSE: This program works in conjunction with
 carcassonne_tile.py to recreate the Carcassonne
 game digitally. It allows the user to place created
@@ -15,6 +16,7 @@ tiles in certain locations, following the rules
 of the game. It contains one class, CarcassonneMap.
    
 carcassonne_tile.py
+
 PURPOSE: This program contains functions for
 creating and getting information about the
 Carcassonne game tiles. They are all a part 
